@@ -25,9 +25,9 @@ var Chaincode = class {
     let Aval = args[1];
     let Bval = args[3];
 
-    if (typeof parseInt(Aval) !== 'number' || typeof parseInt(Bval) !== 'number') {
-      return shim.error('Expecting integer value for asset holding');
-    }
+    // if (typeof parseInt(Aval) !== 'number' || typeof parseInt(Bval) !== 'number') {
+    //   return shim.error('Expecting integer value for asset holding');
+    // }
 
     try {
       await stub.putState(A, Buffer.from(Aval));
@@ -77,27 +77,29 @@ var Chaincode = class {
     if (!Avalbytes) {
       throw new Error('Failed to get state of asset holder A');
     }
-    let Aval = parseInt(Avalbytes.toString());
-
+    //let Aval = parseInt(Avalbytes.toString());
+    let Aval = Avalbytes.toString();
     let Bvalbytes = await stub.getState(B);
     if (!Bvalbytes) {
       throw new Error('Failed to get state of asset holder B');
     }
 
-    let Bval = parseInt(Bvalbytes.toString());
+    //let Bval = parseInt(Bvalbytes.toString());
+    let Bval = Bvalbytes.toString();
     // Perform the execution
-    let amount = parseInt(args[2]);
-    if (typeof amount !== 'number') {
-      throw new Error('Expecting integer value for amount to be transaferred');
+    //let amount = parseInt(args[2]);
+    let courseVal = args[2];
+    if (!courseVal) {
+      throw new Error('Expecting integer value for course to be transaferred');
     }
 
-    Aval = Aval - amount;
-    Bval = Bval + amount;
-    console.info(util.format('Aval = %d, Bval = %d\n', Aval, Bval));
+    // Aval = Aval - amount;
+    // Bval = Bval + amount;
+    // console.info(util.format('Aval = %d, Bval = %d\n', Aval, Bval));
 
     // Write the states back to the ledger
     await stub.putState(A, Buffer.from(Aval.toString()));
-    await stub.putState(B, Buffer.from(Bval.toString()));
+    await stub.putState(B, Buffer.from(courseVal.toString()));
 
   }
 
