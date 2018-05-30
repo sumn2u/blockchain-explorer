@@ -92,14 +92,19 @@ var Chaincode = class {
     if (!courseVal) {
       throw new Error('Expecting integer value for course to be transaferred');
     }
+    
+    let nameVal = args[3];
+    if (!nameVal) {
+      throw new Error('Expecting integer value for course to be transaferred');
+    }
 
     // Aval = Aval - amount;
     // Bval = Bval + amount;
     // console.info(util.format('Aval = %d, Bval = %d\n', Aval, Bval));
 
     // Write the states back to the ledger
-    await stub.putState(A, Buffer.from(Aval.toString()));
-    await stub.putState(B, Buffer.from(courseVal.toString()));
+    await stub.putState(A, Buffer.from(courseVal.toString()));
+    await stub.putState(B, Buffer.from(nameVal.toString()));
 
   }
 
