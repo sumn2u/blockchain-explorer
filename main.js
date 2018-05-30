@@ -62,8 +62,8 @@ var config = require('./config.json');
 var query = require('./app/query.js');
 var sql = require('./app/db/pgservice.js');
 
-var host = process.env.HOST || config.host;
-var port = process.env.PORT || config.port;
+var host = 'http://ec2-34-200-21-88.compute-1.amazonaws.com';
+var port = '8080';
 
 
 var networkConfig = config["network-config"];
@@ -99,6 +99,20 @@ app.use(expressJWT({
 	path: unprotected
 }));
 app.use(bearerToken());
+
+
+app.all('/*', function(req, res, next) {
+	// CORS headers
+	res.header("Access-Control-Allow-Origin", "*"); // restrict it to the required domain
+	res.header('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,OPTIONS');
+	// Set custom headers for CORS
+	res.header('Access-Control-Allow-Headers', 'Content-type,Accept,X-Access-Token,X-Key');
+	if (req.method == 'OPTIONS') {
+	  res.status(200).end();
+	} else {
+	  next();
+	}
+  });
 
 app.all('/apis/*', [require('./middlewares/validateRequest')]);
 
