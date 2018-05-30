@@ -1,0 +1,1915 @@
+
+Stopping peer0.org1.example.com ... 
+Stopping peer1.org2.example.com ... 
+Stopping peer0.org2.example.com ... 
+Stopping peer1.org1.example.com ... 
+Stopping ca_peerOrg2 ... 
+Stopping ca_peerOrg1 ... 
+Stopping orderer.example.com ... 
+[7A[2KStopping peer0.org1.example.com ... [32mdone[0m[7B[5A[2KStopping peer0.org2.example.com ... [32mdone[0m[5B[4A[2KStopping peer1.org1.example.com ... [32mdone[0m[4B[6A[2KStopping peer1.org2.example.com ... [32mdone[0m[6B[1A[2KStopping orderer.example.com ... [32mdone[0m[1B[3A[2KStopping ca_peerOrg2 ... [32mdone[0m[3B[2A[2KStopping ca_peerOrg1 ... [32mdone[0m[2BRemoving peer0.org1.example.com ... 
+Removing peer1.org2.example.com ... 
+Removing peer0.org2.example.com ... 
+Removing peer1.org1.example.com ... 
+Removing ca_peerOrg2 ... 
+Removing ca_peerOrg1 ... 
+Removing orderer.example.com ... 
+[4A[2KRemoving peer1.org1.example.com ... [32mdone[0m[4B[2A[2KRemoving ca_peerOrg1 ... [32mdone[0m[2B[7A[2KRemoving peer0.org1.example.com ... [32mdone[0m[7B[5A[2KRemoving peer0.org2.example.com ... [32mdone[0m[5B[1A[2KRemoving orderer.example.com ... [32mdone[0m[1B[6A[2KRemoving peer1.org2.example.com ... [32mdone[0m[6B[3A[2KRemoving ca_peerOrg2 ... [32mdone[0m[3BRemoving network artifacts_default
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2
+Creating orderer.example.com
+Creating ca_peerOrg1
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: node: command not found
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2
+Creating orderer.example.com
+Creating ca_peerOrg1
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org2.example.com ... 
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1BCreating peer0.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com ... 
+Creating peer1.org2.example.com
+Creating peer0.org2.example.com
+Creating peer1.org1.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: node: command not found
+
+Stopping peer1.org1.example.com ... 
+Stopping peer0.org1.example.com ... 
+Stopping peer0.org2.example.com ... 
+Stopping peer1.org2.example.com ... 
+Stopping orderer.example.com ... 
+Stopping ca_peerOrg1 ... 
+Stopping ca_peerOrg2 ... 
+[5A[2KStopping peer0.org2.example.com ... [32mdone[0m[5B[6A[2KStopping peer0.org1.example.com ... [32mdone[0m[6B[4A[2KStopping peer1.org2.example.com ... [32mdone[0m[4B[7A[2KStopping peer1.org1.example.com ... [32mdone[0m[7B[3A[2KStopping orderer.example.com ... [32mdone[0m[3B[2A[2KStopping ca_peerOrg1 ... [32mdone[0m[2B[1A[2KStopping ca_peerOrg2 ... [32mdone[0m[1BRemoving peer1.org1.example.com ... 
+Removing peer0.org1.example.com ... 
+Removing peer0.org2.example.com ... 
+Removing peer1.org2.example.com ... 
+Removing orderer.example.com ... 
+Removing ca_peerOrg1 ... 
+Removing ca_peerOrg2 ... 
+[1A[2KRemoving ca_peerOrg2 ... [32mdone[0m[1B[2A[2KRemoving ca_peerOrg1 ... [32mdone[0m[2B[5A[2KRemoving peer0.org2.example.com ... [32mdone[0m[5B[7A[2KRemoving peer1.org1.example.com ... [32mdone[0m[7B[4A[2KRemoving peer1.org2.example.com ... [32mdone[0m[4B[3A[2KRemoving orderer.example.com ... [32mdone[0m[3B[6A[2KRemoving peer0.org1.example.com ... [32mdone[0m[6BRemoving network artifacts_default
+
+7b1c6d0e5708
+c546458c34ff
+ea54020b6feb
+
+
+Untagged: dev-peer0.org1.example.com-mycc-v1-2e8aae988c044f8defc1f175963163be4afda372a371605758993dbcd58f0411:latest
+Deleted: sha256:8cd99714c32c7402005f583988964f45e51603b89b8e0715540bb121695c7d4b
+Deleted: sha256:529e1e46183b6370d9391b05c6f480a8f451998779d91720ec3aa2a7eaf0650d
+Deleted: sha256:6b98480ec91811bfcbf863b9f6fefd4022051513262320bff05c91dbaee87e17
+Untagged: dev-peer1.org1.example.com-mycc-v1-44e5460ab42b5b6dc9bbe3754df0e6d53c8cbd3ee340c3b5c41e86483014e2cb:latest
+Deleted: sha256:a001ec5eeeb4ae2d26931c6b2f2bbdf2e9623fd14a2f6baf072ac1834b5de72a
+Deleted: sha256:564b46cab00e1ab88663b6239c53a05159de2fd1e9d21b3aca4734653aebec52
+Deleted: sha256:5ca849dac4871a8c2d1f455143d958509467dcbb8d81c831f4068577f7618347
+Deleted: sha256:1f6bbf48c121da012e440b7c2a4605029953939da34a8fe2560291ee2d0ec0da
+Untagged: dev-peer1.org1.example.com-mycc-v2-77b27d10bf1fad5de27d62fe5f776c8d0ba4b3b20ec284fdc999a5d3b1be81c7:latest
+Deleted: sha256:3adb606987bcbfbfbdb269d9b569ef8772905822049a9857628c800d23da8f6f
+Deleted: sha256:4e7cad5726855773170650bd9e344be034fc130aa10cabee26e0ba2ffe579736
+Deleted: sha256:57c9723d2e443d16287c69f735f1bd78ff27c41f57cb34baffdf247f443073ef
+Deleted: sha256:5f59b6273e5ba35e3388d192f2bc6158d9d272b5245aad77fde01de7815f9f78
+
+Creating network "artifacts_default" with the default driver
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2
+Creating orderer.example.com
+Creating ca_peerOrg1
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: node: command not found
+
+Stopping peer0.org2.example.com ... 
+Stopping peer1.org2.example.com ... 
+Stopping peer0.org1.example.com ... 
+Stopping peer1.org1.example.com ... 
+Stopping ca_peerOrg1 ... 
+Stopping orderer.example.com ... 
+Stopping ca_peerOrg2 ... 
+[7A[2KStopping peer0.org2.example.com ... [32mdone[0m[7B[5A[2KStopping peer0.org1.example.com ... [32mdone[0m[5B[4A[2KStopping peer1.org1.example.com ... [32mdone[0m[4B[6A[2KStopping peer1.org2.example.com ... [32mdone[0m[6B[2A[2KStopping orderer.example.com ... [32mdone[0m[2B[3A[2KStopping ca_peerOrg1 ... [32mdone[0m[3B[1A[2KStopping ca_peerOrg2 ... [32mdone[0m[1BRemoving peer0.org2.example.com ... 
+Removing peer1.org2.example.com ... 
+Removing peer0.org1.example.com ... 
+Removing peer1.org1.example.com ... 
+Removing ca_peerOrg1 ... 
+Removing orderer.example.com ... 
+Removing ca_peerOrg2 ... 
+[2A[2KRemoving orderer.example.com ... [32mdone[0m[2B[7A[2KRemoving peer0.org2.example.com ... [32mdone[0m[7B[6A[2KRemoving peer1.org2.example.com ... [32mdone[0m[6B[3A[2KRemoving ca_peerOrg1 ... [32mdone[0m[3B[5A[2KRemoving peer0.org1.example.com ... [32mdone[0m[5B[4A[2KRemoving peer1.org1.example.com ... [32mdone[0m[4B[1A[2KRemoving ca_peerOrg2 ... [32mdone[0m[1BRemoving network artifacts_default
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2
+Creating orderer.example.com
+Creating ca_peerOrg1
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com
+Creating peer1.org1.example.com
+Creating peer0.org1.example.com
+Creating peer0.org2.example.com
+[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: node: command not found
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2
+Creating orderer.example.com
+Creating ca_peerOrg1
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1BCreating peer1.org2.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com ... 
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org1.example.com
+[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: node: command not found
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 03:23:36.586] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 03:23:36.588] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 03:24:02.223] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:24:02.224] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:24:02.224] [DEBUG] SampleWebApp - [39mUser name : Jim
+[36m[2018-05-30 03:24:02.224] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:24:02.576] [INFO] Helper - [39mUser Jim was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:24:03.271] [DEBUG] SampleWebApp - [39m-- returned from registering the username Jim for organization Org1
+[36m[2018-05-30 03:24:03.272] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Jim for organization Org1
+[36m[2018-05-30 03:24:03.294] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:24:03.294] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:24:03.294] [DEBUG] SampleWebApp - [39mUser name : Barry
+[36m[2018-05-30 03:24:03.294] [DEBUG] SampleWebApp - [39mOrg name  : Org2
+[32m[2018-05-30 03:24:03.311] [INFO] Helper - [39mUser Barry was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:24:03.861] [DEBUG] SampleWebApp - [39m-- returned from registering the username Barry for organization Org2
+[36m[2018-05-30 03:24:03.861] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Barry for organization Org2
+[36m[2018-05-30 03:24:03.881] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 03:24:03.882] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:24:03.883] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:24:03.883] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 03:24:03.883] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 03:24:03.883] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 03:24:03.884] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 03:24:03.884] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 03:24:03.888] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 03:24:03.981] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 03:24:03.982] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 03:24:09.002] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 03:24:09.002] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:24:09.003] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:24:09.003] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:24:09.003] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:24:09.004] [DEBUG] SampleWebApp - [39musername :Jim
+[36m[2018-05-30 03:24:09.004] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 03:24:09.004] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 03:24:09.004] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:24:09.018] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:24:09.266] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 03:24:09.271] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 03:24:09.272] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 03:24:09.272] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 03:24:09.272] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 03:24:09.272] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 03:24:09.272] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 03:24:09.273] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 03:24:09.273] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 03:24:09.299] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 03:24:09.316] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 03:24:09.316] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Barry, orgname - Org2
+[32m[2018-05-30 03:24:09.316] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:24:09.316] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:24:09.316] [DEBUG] SampleWebApp - [39mpeers : peer0.org2.example.com,peer1.org2.example.com
+[36m[2018-05-30 03:24:09.317] [DEBUG] SampleWebApp - [39musername :Barry
+[36m[2018-05-30 03:24:09.317] [DEBUG] SampleWebApp - [39morgname:Org2
+[36m[2018-05-30 03:24:09.317] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 03:24:09.317] [INFO] Join-Channel - [39mCalling peers in organization "Org2" to join the channel
+[36m[2018-05-30 03:24:09.323] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org2"
+[32m[2018-05-30 03:24:09.545] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8053 mychannel
+[32m[2018-05-30 03:24:09.561] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8058 mychannel
+[36m[2018-05-30 03:24:09.561] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:8053 mychannel","EventHub % has reported a block update for channel localhost:8058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 03:24:09.561] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 03:24:09.562] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 03:24:09.562] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:8053
+[36m[2018-05-30 03:24:09.562] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8053 mychannel
+[36m[2018-05-30 03:24:09.562] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:8058
+[36m[2018-05-30 03:24:09.562] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8058 mychannel
+[32m[2018-05-30 03:24:09.572] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org2 to the channel:mychannel
+[36m[2018-05-30 03:24:09.588] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:24:09.588] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:24:09.589] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:24:09.589] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:24:09.589] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:24:09.589] [DEBUG] SampleWebApp - [39mchaincodePath  : github.com/example_cc/go
+[36m[2018-05-30 03:24:09.590] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:24:09.590] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:24:09.590] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:24:09.590] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:24:09.596] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/example_cc/go
+[32m[2018-05-30 03:24:09.638] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:24:09.638] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:24:09.638] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:24:09.638] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:24:09.650] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Barry, orgname - Org2
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mpeers : peer0.org2.example.com,peer1.org2.example.com
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mchaincodePath  : github.com/example_cc/go
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:24:09.651] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:24:09.652] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:24:09.652] [INFO] install-chaincode - [39mCalling peers in organization "Org2" to join the channel
+[36m[2018-05-30 03:24:09.659] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org2"
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/example_cc/go
+[32m[2018-05-30 03:24:09.705] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:24:09.705] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:24:09.705] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:24:09.705] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:24:09.717] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:24:09.718] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:24:09.718] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:24:09.718] [DEBUG] SampleWebApp - [39mpeers  : undefined
+[36m[2018-05-30 03:24:09.718] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:24:09.718] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:24:09.719] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:24:09.719] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:24:09.719] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:24:09.719] [DEBUG] SampleWebApp - [39margs  : a,100,b,200
+[36m[2018-05-30 03:24:09.720] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:24:09.771] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:24:51.997] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:24:51.997] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:24:51.997] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ �M���Nܛe�3�^�2�)|M�H_��	�� *PI�w�jL5x6^�E=�)ˡF��	��C55: y�_����(�A���C^���g�ry��B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0E! ����3�\.����C�x�K�Sgu˾	���" 4� ;(3T�\����࣢ۜ*w���g�M�E3�
+[36m[2018-05-30 03:24:51.999] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 03:24:51.999] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 03:24:54.137] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 03:24:54.138] [INFO] instantiate-chaincode - [39mTransaction 8337aab3aa49f26859c6546726b154ccfd0db2a616b15d2b731b756ee3c3bb71 has status of VALID in blocl 1
+[32m[2018-05-30 03:24:54.138] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 03:24:54.138] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 03:24:54.139] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 03:24:54.139] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 03:24:54.139] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 03:24:54.139] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 03:24:54.161] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 03:24:54.162] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:24:54.162] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 03:24:54.162] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:24:54.162] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:24:54.163] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 03:24:54.163] [DEBUG] SampleWebApp - [39margs  : a,b,10
+[36m[2018-05-30 03:24:54.163] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 03:24:54.178] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:25:16.148] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 03:25:16.149] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 03:25:16.149] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0D ,��g�RO��Y����#*�m$��z������  B��?�I$ğ�SM aCҽ�]�%�GnT�y1�
+[36m[2018-05-30 03:25:16.150] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 03:25:18.263] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 03:25:18.263] [INFO] invoke-chaincode - [39mTransaction 78153bb124ea75c6e7564c90f605adc18faf84c9dd0c3bf846a12f10166a255e has status of VALID in blocl 2
+[32m[2018-05-30 03:25:18.263] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 03:25:18.264] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 03:25:18.264] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 03:25:18.264] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 03:25:18.264] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 03:25:18.264] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: 78153bb124ea75c6e7564c90f605adc18faf84c9dd0c3bf846a12f10166a255e
+[36m[2018-05-30 03:28:06.395] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:28:06.396] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:28:06.396] [DEBUG] SampleWebApp - [39mUser name : Jim
+[36m[2018-05-30 03:28:06.396] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:28:06.402] [INFO] Helper - [39mSuccessfully loaded member from persistence
+[36m[2018-05-30 03:28:06.402] [DEBUG] SampleWebApp - [39m-- returned from registering the username Jim for organization Org1
+[36m[2018-05-30 03:28:06.403] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Jim for organization Org1
+[36m[2018-05-30 03:29:01.867] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 03:29:01.867] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:29:01.867] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:29:01.868] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 03:29:01.868] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 03:29:01.868] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 03:29:01.868] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 03:29:01.868] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 03:29:01.873] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 03:29:01.946] [DEBUG] Create-Channel - [39m response ::{"status":"BAD_REQUEST","info":"error authorizing update: error validating ReadSet: readset expected key [Group]  /Channel/Application at version 0, but got version 1"}
+[31m[2018-05-30 03:29:01.947] [ERROR] Create-Channel - [39m
+!!!!!!!!! Failed to create the channel 'mychannel' !!!!!!!!!
+
+
+[31m[2018-05-30 03:29:01.947] [ERROR] Create-Channel - [39mError: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:62:10)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:1342) UnhandledPromiseRejectionWarning: Error: Failed to initialize the channel: Error: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:66:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:1342) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:1342) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[36m[2018-05-30 03:29:47.170] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:29:47.170] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:29:47.170] [DEBUG] SampleWebApp - [39mUser name : Jim
+[36m[2018-05-30 03:29:47.171] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:29:47.179] [INFO] Helper - [39mSuccessfully loaded member from persistence
+[36m[2018-05-30 03:29:47.179] [DEBUG] SampleWebApp - [39m-- returned from registering the username Jim for organization Org1
+[36m[2018-05-30 03:29:47.179] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Jim for organization Org1
+[36m[2018-05-30 03:29:47.195] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:29:47.195] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:29:47.195] [DEBUG] SampleWebApp - [39mUser name : Barry
+[36m[2018-05-30 03:29:47.195] [DEBUG] SampleWebApp - [39mOrg name  : Org2
+[32m[2018-05-30 03:29:47.201] [INFO] Helper - [39mSuccessfully loaded member from persistence
+[36m[2018-05-30 03:29:47.201] [DEBUG] SampleWebApp - [39m-- returned from registering the username Barry for organization Org2
+[36m[2018-05-30 03:29:47.201] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Barry for organization Org2
+[36m[2018-05-30 03:29:47.216] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 03:29:47.216] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:29:47.216] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:29:47.216] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 03:29:47.216] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 03:29:47.217] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 03:29:47.217] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 03:29:47.217] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 03:29:47.221] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 03:29:47.237] [DEBUG] Create-Channel - [39m response ::{"status":"BAD_REQUEST","info":"error authorizing update: error validating ReadSet: readset expected key [Group]  /Channel/Application at version 0, but got version 1"}
+[31m[2018-05-30 03:29:47.238] [ERROR] Create-Channel - [39m
+!!!!!!!!! Failed to create the channel 'mychannel' !!!!!!!!!
+
+
+[31m[2018-05-30 03:29:47.238] [ERROR] Create-Channel - [39mError: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:62:10)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:1342) UnhandledPromiseRejectionWarning: Error: Failed to initialize the channel: Error: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:66:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:1342) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+[36m[2018-05-30 03:31:00.116] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:31:00.118] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:31:00.118] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:31:00.118] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:31:00.119] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:31:00.119] [DEBUG] SampleWebApp - [39mchaincodePath  : github.com/example_cc/go
+[36m[2018-05-30 03:31:00.119] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:31:00.119] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:31:00.119] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:31:00.119] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:31:00.125] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/example_cc/go
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: Error installing chaincode code mycc:v0(chaincode /var/hyperledger/production/chaincodes/mycc.v0 exists))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: Error installing chaincode code mycc:v0(chaincode /var/hyperledger/production/chaincodes/mycc.v0 exists))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:31:00.157] [ERROR] install-chaincode - [39mTypeError: proposalResponses.toJSON is not a function
+    at Object.installChaincode (/home/ubuntu/blockchain-explorer/app/install-chaincode.js:63:66)
+    at <anonymous>
+[31m[2018-05-30 03:31:00.158] [ERROR] install-chaincode - [39mFailed to install due to:TypeError: proposalResponses.toJSON is not a function
+(node:1342) UnhandledPromiseRejectionWarning: Error: Failed to install due to:TypeError: proposalResponses.toJSON is not a function
+    at Object.installChaincode (/home/ubuntu/blockchain-explorer/app/install-chaincode.js:90:9)
+    at <anonymous>
+(node:1342) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+[36m[2018-05-30 03:32:00.461] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 03:32:00.461] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:32:00.462] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 03:32:00.462] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:32:00.462] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:32:00.462] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 03:32:00.462] [DEBUG] SampleWebApp - [39margs  : a,b,10,20
+[36m[2018-05-30 03:32:00.462] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 03:32:00.468] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: Incorrect number of arguments. Expecting 4, function followed by 2 names and 1 value)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: Incorrect number of arguments. Expecting 4, function followed by 2 names and 1 value)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:32:00.504] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[31m[2018-05-30 03:32:00.504] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[36m[2018-05-30 03:32:00.504] [DEBUG] invoke-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 03:32:00.505] [ERROR] invoke-chaincode - [39mFailed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:1342) UnhandledPromiseRejectionWarning: Error: Failed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.invokeChaincode (/home/ubuntu/blockchain-explorer/app/invoke-transaction.js:174:9)
+    at <anonymous>
+(node:1342) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+[36m[2018-05-30 03:34:02.182] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:34:02.182] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:34:02.182] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:34:02.182] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:34:02.182] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:34:02.183] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 03:34:02.183] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v1
+[36m[2018-05-30 03:34:02.183] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 03:34:02.183] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:34:02.183] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:34:02.189] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 03:34:02.222] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:34:02.223] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:34:02.223] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:34:02.223] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:34:56.718] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:34:56.718] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:34:56.718] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:34:56.718] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:34:56.719] [DEBUG] SampleWebApp - [39margs  : a,100,b,200
+[36m[2018-05-30 03:34:56.719] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:34:56.725] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: chaincode exists mycc)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: chaincode exists mycc)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:34:56.751] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[31m[2018-05-30 03:34:56.752] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[36m[2018-05-30 03:34:56.752] [DEBUG] instantiate-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 03:34:56.752] [ERROR] instantiate-chaincode - [39mFailed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:1342) UnhandledPromiseRejectionWarning: Error: Failed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.instantiateChaincode (/home/ubuntu/blockchain-explorer/app/instantiate-chaincode.js:190:9)
+    at <anonymous>
+(node:1342) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1BCreating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1BCreating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 03:41:29.570] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 03:41:29.572] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::4000
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at Server.listen (net.js:1480:7)
+    at Object.<anonymous> (/home/ubuntu/blockchain-explorer/server.js:92:37)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62:  1342 Killed                  PORT=4000 node server.js
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1BCreating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer0.org1.example.com
+Creating peer1.org2.example.com
+[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 03:42:39.745] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 03:42:39.747] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 03:42:50.765] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:42:50.766] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:42:50.766] [DEBUG] SampleWebApp - [39mUser name : Jim
+[36m[2018-05-30 03:42:50.767] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:42:51.118] [INFO] Helper - [39mUser Jim was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:42:51.790] [DEBUG] SampleWebApp - [39m-- returned from registering the username Jim for organization Org1
+[36m[2018-05-30 03:42:51.790] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Jim for organization Org1
+[36m[2018-05-30 03:42:51.809] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:42:51.811] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:42:51.811] [DEBUG] SampleWebApp - [39mUser name : Barry
+[36m[2018-05-30 03:42:51.811] [DEBUG] SampleWebApp - [39mOrg name  : Org2
+[32m[2018-05-30 03:42:51.829] [INFO] Helper - [39mUser Barry was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:42:52.360] [DEBUG] SampleWebApp - [39m-- returned from registering the username Barry for organization Org2
+[36m[2018-05-30 03:42:52.361] [DEBUG] SampleWebApp - [39mSuccessfully registered the username Barry for organization Org2
+[36m[2018-05-30 03:42:52.381] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 03:42:52.382] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:42:52.382] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:42:52.383] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 03:42:52.383] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 03:42:52.383] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 03:42:52.383] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 03:42:52.383] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 03:42:52.387] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 03:42:52.477] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 03:42:52.478] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 03:42:57.494] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 03:42:57.495] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[32m[2018-05-30 03:42:57.495] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:42:57.496] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:42:57.496] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:42:57.496] [DEBUG] SampleWebApp - [39musername :Jim
+[36m[2018-05-30 03:42:57.496] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 03:42:57.497] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 03:42:57.497] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:42:57.509] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:42:57.736] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[32m[2018-05-30 03:42:57.783] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[36m[2018-05-30 03:42:57.784] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 03:42:57.784] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 03:42:57.784] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 03:42:57.785] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 03:42:57.785] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 03:42:57.785] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 03:42:57.785] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 03:42:57.801] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 03:42:57.818] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 03:42:57.818] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Barry, orgname - Org2
+[32m[2018-05-30 03:42:57.818] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:42:57.818] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:42:57.819] [DEBUG] SampleWebApp - [39mpeers : peer0.org2.example.com,peer1.org2.example.com
+[36m[2018-05-30 03:42:57.819] [DEBUG] SampleWebApp - [39musername :Barry
+[36m[2018-05-30 03:42:57.819] [DEBUG] SampleWebApp - [39morgname:Org2
+[36m[2018-05-30 03:42:57.819] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 03:42:57.819] [INFO] Join-Channel - [39mCalling peers in organization "Org2" to join the channel
+[36m[2018-05-30 03:42:57.827] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org2"
+[32m[2018-05-30 03:42:58.034] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8058 mychannel
+[32m[2018-05-30 03:42:58.049] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8053 mychannel
+[36m[2018-05-30 03:42:58.050] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:8053 mychannel","EventHub % has reported a block update for channel localhost:8058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 03:42:58.051] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 03:42:58.051] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 03:42:58.051] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:8053
+[36m[2018-05-30 03:42:58.051] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8053 mychannel
+[36m[2018-05-30 03:42:58.051] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:8058
+[36m[2018-05-30 03:42:58.051] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:8058 mychannel
+[32m[2018-05-30 03:42:58.060] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org2 to the channel:mychannel
+[36m[2018-05-30 03:42:58.075] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:42:58.076] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:42:58.076] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:42:58.076] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:42:58.076] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:42:58.076] [DEBUG] SampleWebApp - [39mchaincodePath  : github.com/example_cc/go
+[36m[2018-05-30 03:42:58.077] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:42:58.077] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:42:58.077] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:42:58.077] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:42:58.083] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/example_cc/go
+[32m[2018-05-30 03:42:58.133] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:42:58.133] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:42:58.133] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:42:58.134] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:42:58.145] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:42:58.147] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Barry, orgname - Org2
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39mpeers : peer0.org2.example.com,peer1.org2.example.com
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39mchaincodePath  : github.com/example_cc/go
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:42:58.148] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:42:58.148] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:42:58.149] [INFO] install-chaincode - [39mCalling peers in organization "Org2" to join the channel
+[36m[2018-05-30 03:42:58.156] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org2"
+[32minfo[39m: [packager/Golang.js]: packaging GOLANG from github.com/example_cc/go
+[32m[2018-05-30 03:42:58.212] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:42:58.212] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:42:58.212] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:42:58.212] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:42:58.224] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:42:58.225] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:42:58.225] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:42:58.225] [DEBUG] SampleWebApp - [39mpeers  : undefined
+[36m[2018-05-30 03:42:58.225] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:42:58.225] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:42:58.226] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:42:58.226] [DEBUG] SampleWebApp - [39mchaincodeType  : golang
+[36m[2018-05-30 03:42:58.226] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:42:58.226] [DEBUG] SampleWebApp - [39margs  : a,100,b,200
+[36m[2018-05-30 03:42:58.227] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:42:58.232] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:43:41.518] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:43:41.518] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:43:41.518] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ �M���Nܛe�3�^�2�)|M�H_��	�� *PI�w�jL5x6^�E=�)ˡF��	��C55: y�_����(�A���C^���g�ry��B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0D |�RV;X�� ��>xct/�����R��㶠 @�7�� }��Dq���C��s�b^f������
+[36m[2018-05-30 03:43:41.520] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 03:43:41.521] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 03:43:43.655] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 03:43:43.655] [INFO] instantiate-chaincode - [39mTransaction 849f6118ce5fcaf82b3017ddc4c5fc5490da516ad298530fc41662864f76bb18 has status of VALID in blocl 1
+[32m[2018-05-30 03:43:43.655] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 03:43:43.656] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 03:43:43.656] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 03:43:43.656] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 03:43:43.656] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 03:43:43.657] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 03:43:43.671] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 03:43:43.672] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:43:43.672] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 03:43:43.673] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:43:43.673] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:43:43.673] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 03:43:43.673] [DEBUG] SampleWebApp - [39margs  : a,b,10
+[36m[2018-05-30 03:43:43.674] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 03:43:43.688] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:44:05.161] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 03:44:05.161] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 03:44:05.161] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0D >���z�9q����3e5EL�r���c���Ľ ɢl����0
+�'~�J'Ǎ�<�h?���W
+[36m[2018-05-30 03:44:05.163] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 03:44:07.272] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 03:44:07.273] [INFO] invoke-chaincode - [39mTransaction b662760b82f61a4769e920ee2c42bf3d837c8dbff431e4c20706caeaee41e005 has status of VALID in blocl 2
+[32m[2018-05-30 03:44:07.273] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 03:44:07.273] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 03:44:07.274] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 03:44:07.274] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 03:44:07.274] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 03:44:07.275] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: b662760b82f61a4769e920ee2c42bf3d837c8dbff431e4c20706caeaee41e005
+[36m[2018-05-30 03:44:07.292] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc?peer=peer0.org1.example.com&fcn=query&args=%5B%22a%22%5D
+[36m[2018-05-30 03:44:07.293] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.294] [DEBUG] SampleWebApp - [39m==================== QUERY BY CHAINCODE ==================
+[36m[2018-05-30 03:44:07.294] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:44:07.294] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:44:07.294] [DEBUG] SampleWebApp - [39mfcn : query
+[36m[2018-05-30 03:44:07.294] [DEBUG] SampleWebApp - [39margs : ["a"]
+[36m[2018-05-30 03:44:07.295] [DEBUG] SampleWebApp - [39m[ 'a' ]
+[31m[2018-05-30 03:44:07.297] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.queryChaincode (/home/ubuntu/blockchain-explorer/app/server-query.js:26:29)
+    at /home/ubuntu/blockchain-explorer/server.js:324:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:365:14)
+[36m[2018-05-30 03:44:07.312] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/blocks/1?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.312] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.313] [DEBUG] SampleWebApp - [39m==================== GET BLOCK BY NUMBER ==================
+[36m[2018-05-30 03:44:07.313] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:44:07.313] [DEBUG] SampleWebApp - [39mBlockID : 1
+[36m[2018-05-30 03:44:07.313] [DEBUG] SampleWebApp - [39mPeer : peer0.org1.example.com
+[31m[2018-05-30 03:44:07.317] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getBlockByNumber (/home/ubuntu/blockchain-explorer/app/server-query.js:62:29)
+    at /home/ubuntu/blockchain-explorer/server.js:340:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:365:14)
+[36m[2018-05-30 03:44:07.346] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/transactions/b662760b82f61a4769e920ee2c42bf3d837c8dbff431e4c20706caeaee41e005?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.346] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.347] [DEBUG] SampleWebApp - [39m================ GET TRANSACTION BY TRANSACTION_ID ======================
+[36m[2018-05-30 03:44:07.347] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[31m[2018-05-30 03:44:07.347] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getTransactionByID (/home/ubuntu/blockchain-explorer/app/server-query.js:87:29)
+    at /home/ubuntu/blockchain-explorer/server.js:354:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:365:14)
+[36m[2018-05-30 03:44:07.359] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.360] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.361] [DEBUG] SampleWebApp - [39m================ GET CHANNEL INFORMATION ======================
+[36m[2018-05-30 03:44:07.361] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[31m[2018-05-30 03:44:07.361] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getChainInfo (/home/ubuntu/blockchain-explorer/app/server-query.js:137:29)
+    at /home/ubuntu/blockchain-explorer/server.js:377:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:365:14)
+[36m[2018-05-30 03:44:07.373] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.374] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.374] [DEBUG] SampleWebApp - [39m================ GET INSTALLED CHAINCODES ======================
+[31m[2018-05-30 03:44:07.374] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getInstalledChaincodes (/home/ubuntu/blockchain-explorer/app/server-query.js:163:29)
+    at /home/ubuntu/blockchain-explorer/server.js:395:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:275:10)
+[36m[2018-05-30 03:44:07.385] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.386] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.386] [DEBUG] SampleWebApp - [39m================ GET INSTANTIATED CHAINCODES ======================
+[36m[2018-05-30 03:44:07.386] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[31m[2018-05-30 03:44:07.386] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getInstalledChaincodes (/home/ubuntu/blockchain-explorer/app/server-query.js:163:29)
+    at /home/ubuntu/blockchain-explorer/server.js:386:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:354:14)
+    at param (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:365:14)
+[36m[2018-05-30 03:44:07.397] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels?peer=peer0.org1.example.com
+[36m[2018-05-30 03:44:07.397] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - Jim, orgname - Org1
+[36m[2018-05-30 03:44:07.397] [DEBUG] SampleWebApp - [39m================ GET CHANNELS ======================
+[36m[2018-05-30 03:44:07.397] [DEBUG] SampleWebApp - [39mpeer: peer0.org1.example.com
+[31m[2018-05-30 03:44:07.398] [ERROR] Query - [39mTypeError: hfc.getConfigSetting is not a function
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/helper.js:49:38)
+    at Object.getChannels (/home/ubuntu/blockchain-explorer/app/server-query.js:206:29)
+    at /home/ubuntu/blockchain-explorer/server.js:408:28
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/blockchain-explorer/node_modules/express/lib/router/index.js:275:10)
+[36m[2018-05-30 03:44:21.950] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:44:21.950] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:44:21.950] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 03:44:21.950] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:44:21.969] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:44:22.357] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 03:44:22.357] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 03:45:55.757] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:45:55.757] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:45:55.757] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:45:55.757] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:45:55.758] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:45:55.758] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 03:45:55.758] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v1
+[36m[2018-05-30 03:45:55.758] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 03:45:55.758] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:45:55.758] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:45:55.767] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 03:45:55.798] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:45:55.798] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:45:55.798] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:45:55.798] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:47:03.515] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:47:03.515] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:47:03.515] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v1
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mchaincodeType  : suman
+[36m[2018-05-30 03:47:03.516] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:47:03.517] [DEBUG] SampleWebApp - [39margs  : name,suman kunwar,course,CS 101
+[36m[2018-05-30 03:47:03.517] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:47:03.530] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: chaincode exists mycc)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: chaincode exists mycc)
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:47:03.559] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[31m[2018-05-30 03:47:03.559] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[36m[2018-05-30 03:47:03.559] [DEBUG] instantiate-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 03:47:03.559] [ERROR] instantiate-chaincode - [39mFailed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:8021) UnhandledPromiseRejectionWarning: Error: Failed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.instantiateChaincode (/home/ubuntu/blockchain-explorer/app/instantiate-chaincode.js:190:9)
+    at <anonymous>
+(node:8021) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 15)
+(node:8021) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 03:47:56.540] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 03:47:56.542] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::4000
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at Server.listen (net.js:1480:7)
+    at Object.<anonymous> (/home/ubuntu/blockchain-explorer/server.js:92:37)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+[36m[2018-05-30 03:47:59.440] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 03:47:59.441] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 03:47:59.441] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 03:47:59.441] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 03:47:59.445] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 03:47:59.965] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 03:47:59.965] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 03:50:27.002] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 03:50:27.002] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 03:50:27.002] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:50:27.003] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 03:50:27.003] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 03:50:27.003] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 03:50:27.003] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 03:50:27.003] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 03:50:27.007] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 03:50:27.095] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 03:50:27.095] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 03:51:04.652] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 03:51:04.652] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 03:51:04.653] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 03:51:04.653] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 03:51:04.653] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:51:04.653] [DEBUG] SampleWebApp - [39musername :SumanKunwar
+[36m[2018-05-30 03:51:04.653] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 03:51:04.653] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 03:51:04.653] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:51:04.659] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:51:04.870] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[32m[2018-05-30 03:51:04.881] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[36m[2018-05-30 03:51:04.881] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 03:51:04.882] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 03:51:04.882] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 03:51:04.882] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 03:51:04.882] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 03:51:04.882] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 03:51:04.883] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 03:51:04.893] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 03:52:38.848] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 03:52:38.849] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:52:38.849] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 03:52:38.849] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:52:38.849] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:52:38.849] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 03:52:38.850] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:52:38.850] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 03:52:38.850] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 03:52:38.850] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 03:52:38.856] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 03:52:38.883] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:52:38.883] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 03:52:38.884] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 03:52:38.884] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 03:53:59.971] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 03:53:59.972] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 03:53:59.973] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:53:59.973] [DEBUG] SampleWebApp - [39margs  : a,100,b,200
+[36m[2018-05-30 03:53:59.973] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:53:59.981] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 03:54:49.049] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:54:49.049] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 03:54:49.049] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ �0�8�=���Ga�$3]G�N�@��@�q�#A� *PI�w�jL5x6^�E=�)ˡF��	��C55: Gw��u��.���ѿ]�-�E���BCw��S�B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0E! ��-8CBM��ܠ	�w���`S.[��	6yV|� /\���s{�����6PN��-�̠�)�"`���
+[36m[2018-05-30 03:54:49.050] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 03:54:49.050] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 03:54:51.148] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 03:54:51.148] [INFO] instantiate-chaincode - [39mTransaction 7a8fb3c64f267ceb4458d6d591321669e35d6df7073003567b21c6f550357ef9 has status of VALID in blocl 1
+[32m[2018-05-30 03:54:51.148] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 03:54:51.149] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 03:54:51.149] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 03:54:51.149] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 03:54:51.150] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 03:54:51.150] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 03:56:32.083] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 03:56:32.083] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:56:32.084] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 03:56:32.084] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:56:32.084] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:56:32.084] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 03:56:32.084] [DEBUG] SampleWebApp - [39margs  : name,course,Suman Kunwar,CS 101
+[36m[2018-05-30 03:56:32.085] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 03:56:32.101] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:56:32.146] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[31m[2018-05-30 03:56:32.146] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[36m[2018-05-30 03:56:32.146] [DEBUG] invoke-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 03:56:32.146] [ERROR] invoke-chaincode - [39mFailed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:8021) UnhandledPromiseRejectionWarning: Error: Failed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.invokeChaincode (/home/ubuntu/blockchain-explorer/app/invoke-transaction.js:174:9)
+    at <anonymous>
+(node:8021) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 16)
+[36m[2018-05-30 03:57:52.459] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 03:57:52.460] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 03:57:52.460] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 03:57:52.460] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 03:57:52.461] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 03:57:52.461] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 03:57:52.461] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v1
+[36m[2018-05-30 03:57:52.461] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 03:57:52.461] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 03:57:52.462] [DEBUG] SampleWebApp - [39margs  : name,Suman Kunwar,course,CS 101
+[36m[2018-05-30 03:57:52.462] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 03:57:52.469] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: cannot get package for chaincode (mycc:v1))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: cannot get package for chaincode (mycc:v1))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 03:57:52.498] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[31m[2018-05-30 03:57:52.498] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[36m[2018-05-30 03:57:52.498] [DEBUG] instantiate-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 03:57:52.499] [ERROR] instantiate-chaincode - [39mFailed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:8021) UnhandledPromiseRejectionWarning: Error: Failed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.instantiateChaincode (/home/ubuntu/blockchain-explorer/app/instantiate-chaincode.js:190:9)
+    at <anonymous>
+(node:8021) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 17)
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer0.org2.example.com
+Creating peer1.org1.example.com
+Creating peer0.org1.example.com
+Creating peer1.org2.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 03:58:56.142] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 03:58:56.144] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+events.js:183
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::4000
+    at Object._errnoException (util.js:992:11)
+    at _exceptionWithHostPort (util.js:1014:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1355:14)
+    at listenInCluster (net.js:1396:12)
+    at Server.listen (net.js:1480:7)
+    at Object.<anonymous> (/home/ubuntu/blockchain-explorer/server.js:92:37)
+    at Module._compile (module.js:652:30)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62:  8021 Killed                  PORT=4000 node server.js
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg2
+Creating ca_peerOrg1
+[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 04:00:07.657] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 04:00:07.659] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 04:00:43.657] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 04:00:43.657] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 04:00:43.658] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 04:00:43.658] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 04:00:44.021] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 04:00:44.658] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:00:44.658] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:01:42.570] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 04:01:42.571] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:01:42.571] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:01:42.571] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 04:01:42.572] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 04:01:42.572] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 04:01:42.572] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 04:01:42.572] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 04:01:42.589] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 04:01:42.684] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 04:01:42.684] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 04:02:21.846] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 04:02:21.846] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:02:21.847] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:02:21.847] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 04:02:21.847] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:02:21.847] [DEBUG] SampleWebApp - [39musername :SumanKunwar
+[36m[2018-05-30 04:02:21.848] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 04:02:21.848] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 04:02:21.848] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:02:21.866] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:02:22.127] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[32m[2018-05-30 04:02:22.134] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[36m[2018-05-30 04:02:22.134] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 04:02:22.135] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 04:02:22.135] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 04:02:22.135] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 04:02:22.135] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 04:02:22.135] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 04:02:22.136] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 04:02:22.146] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 04:03:04.997] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 04:03:04.998] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:03:04.998] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 04:03:04.999] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:03:04.999] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:03:04.999] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 04:03:04.999] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:03:04.999] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:03:04.999] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 04:03:05.000] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:03:05.013] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 04:03:05.073] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:03:05.073] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:03:05.073] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 04:03:05.073] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 04:03:52.081] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 04:03:52.082] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:03:52.082] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 04:03:52.082] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 04:03:52.083] [DEBUG] SampleWebApp - [39margs  : name,Suman Kunwar,course,CS 101
+[36m[2018-05-30 04:03:52.084] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 04:03:52.091] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:04:47.145] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:04:47.145] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:04:47.145] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ �0�8�=���Ga�$3]G�N�@��@�q�#A� *PI�w�jL5x6^�E=�)ˡF��	��C55: Gw��u��.���ѿ]�-�E���BCw��S�B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0D p��M���V�\7���kGs��}M�o�� s  �,i�	|��;�%$=Qr����$Ch�.
+[36m[2018-05-30 04:04:47.147] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 04:04:47.148] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 04:04:49.226] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:04:49.226] [INFO] instantiate-chaincode - [39mTransaction 55726a81c278e4658ef5e83e88fc8ba265cb4a198e8c0736131f6349c1eef07a has status of VALID in blocl 1
+[32m[2018-05-30 04:04:49.227] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 04:04:49.227] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:04:49.228] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:04:49.228] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:04:49.228] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 04:04:49.228] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 04:06:43.633] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:06:43.634] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:06:43.634] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:06:43.635] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:06:43.635] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:06:43.635] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:06:43.635] [DEBUG] SampleWebApp - [39margs  : name,course,Suman Kunwar,Computer Fundamentals
+[36m[2018-05-30 04:06:43.636] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:06:43.642] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 04:06:43.705] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[31m[2018-05-30 04:06:43.705] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[36m[2018-05-30 04:06:43.705] [DEBUG] invoke-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 04:06:43.706] [ERROR] invoke-chaincode - [39mFailed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:17191) UnhandledPromiseRejectionWarning: Error: Failed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.invokeChaincode (/home/ubuntu/blockchain-explorer/app/invoke-transaction.js:174:9)
+    at <anonymous>
+(node:17191) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:17191) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: 17191 Killed                  PORT=4000 node server.js
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org2.example.com
+Creating peer0.org1.example.com
+Creating peer1.org1.example.com
+Creating peer1.org2.example.com
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 04:08:19.213] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 04:08:19.215] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 04:08:39.113] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 04:08:39.114] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:08:39.115] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:08:39.115] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 04:08:39.115] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 04:08:39.115] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 04:08:39.116] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 04:08:39.116] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 04:08:39.471] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 04:08:39.590] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 04:08:39.590] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 04:08:48.666] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 04:08:48.667] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:08:48.667] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:08:48.668] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 04:08:48.668] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:08:48.668] [DEBUG] SampleWebApp - [39musername :SumanKunwar
+[36m[2018-05-30 04:08:48.668] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 04:08:48.669] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 04:08:48.669] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[31m[2018-05-30 04:08:48.689] [ERROR] Join-Channel - [39mError: User was not found : SumanKunwar
+    at Object.getClientForOrg (/home/ubuntu/blockchain-explorer/app/server-helper.js:64:10)
+    at <anonymous>
+[31m[2018-05-30 04:08:48.689] [ERROR] Join-Channel - [39mFailed to join all peers to channel. cause:Error: User was not found : SumanKunwar
+(node:20366) UnhandledPromiseRejectionWarning: Error: Failed to join all peers to channel. cause:Error: User was not found : SumanKunwar
+    at Object.joinChannel (/home/ubuntu/blockchain-explorer/app/join-channel.js:157:9)
+    at <anonymous>
+(node:20366) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:20366) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[36m[2018-05-30 04:09:08.478] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 04:09:08.479] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 04:09:08.479] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 04:09:08.479] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 04:09:08.489] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 04:09:09.141] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:09:09.141] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:09:42.939] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 04:09:42.940] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:09:42.940] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:09:42.940] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 04:09:42.940] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 04:09:42.941] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 04:09:42.941] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 04:09:42.941] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 04:09:42.950] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 04:09:43.003] [DEBUG] Create-Channel - [39m response ::{"status":"BAD_REQUEST","info":"error authorizing update: error validating ReadSet: readset expected key [Group]  /Channel/Application at version 0, but got version 1"}
+[31m[2018-05-30 04:09:43.004] [ERROR] Create-Channel - [39m
+!!!!!!!!! Failed to create the channel 'mychannel' !!!!!!!!!
+
+
+[31m[2018-05-30 04:09:43.005] [ERROR] Create-Channel - [39mError: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:62:10)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:20366) UnhandledPromiseRejectionWarning: Error: Failed to initialize the channel: Error: Failed to create the channel 'mychannel'
+    at Object.createChannel (/home/ubuntu/blockchain-explorer/app/create-channel.js:66:9)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:188:7)
+(node:20366) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: 20366 Killed                  PORT=4000 node server.js
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1B[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+Creating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer1.org2.example.com
+Creating peer0.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 04:10:43.401] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 04:10:43.403] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 04:10:50.695] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 04:10:50.695] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 04:10:50.696] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 04:10:50.696] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 04:10:51.047] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 04:10:51.714] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:10:51.715] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:11:23.634] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 04:11:23.635] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:11:23.636] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:11:23.636] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 04:11:23.636] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 04:11:23.636] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 04:11:23.637] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 04:11:23.637] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 04:11:23.645] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 04:11:23.750] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 04:11:23.750] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 04:11:51.586] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 04:11:51.586] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:11:51.587] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:11:51.587] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 04:11:51.587] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:11:51.587] [DEBUG] SampleWebApp - [39musername :SumanKunwar
+[36m[2018-05-30 04:11:51.588] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 04:11:51.588] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 04:11:51.588] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:11:51.619] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:11:51.842] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 04:11:51.847] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 04:11:51.848] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 04:11:51.848] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 04:11:51.848] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 04:11:51.848] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 04:11:51.849] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 04:11:51.849] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 04:11:51.849] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 04:11:51.866] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 04:12:40.909] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 04:12:40.909] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:12:40.910] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 04:12:40.910] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:12:40.910] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:12:40.910] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:12:40.910] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:12:40.911] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:12:40.911] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 04:12:40.911] [DEBUG] SampleWebApp - [39margs  : name,Suman Kunwar,course,CS 101
+[36m[2018-05-30 04:12:40.911] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 04:12:40.918] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: cannot get package for chaincode (mycc:v0))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: chaincode error (status: 500, message: cannot get package for chaincode (mycc:v0))
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 04:12:40.965] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[31m[2018-05-30 04:12:40.965] [ERROR] instantiate-chaincode - [39minstantiate proposal was bad
+[36m[2018-05-30 04:12:40.966] [DEBUG] instantiate-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 04:12:40.966] [ERROR] instantiate-chaincode - [39mFailed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:22144) UnhandledPromiseRejectionWarning: Error: Failed to instantiate. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.instantiateChaincode (/home/ubuntu/blockchain-explorer/app/instantiate-chaincode.js:190:9)
+    at <anonymous>
+(node:22144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:22144) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+[36m[2018-05-30 04:13:27.196] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 04:13:27.197] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:13:27.197] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 04:13:27.198] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:13:27.198] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:13:27.198] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 04:13:27.198] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:13:27.198] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:13:27.198] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 04:13:27.199] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:13:27.225] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 04:13:27.276] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:13:27.276] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:13:27.276] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 04:13:27.276] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 04:13:30.384] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 04:13:30.385] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:13:30.385] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 04:13:30.385] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 04:13:30.386] [DEBUG] SampleWebApp - [39margs  : name,Suman Kunwar,course,CS 101
+[36m[2018-05-30 04:13:30.386] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 04:13:30.392] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:14:22.118] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:14:22.119] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:14:22.119] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ �0�8�=���Ga�$3]G�N�@��@�q�#A� *PI�w�jL5x6^�E=�)ˡF��	��C55: Gw��u��.���ѿ]�-�E���BCw��S�B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0E! 㕯�Ԣ���Ui�yq,|��^�>b�����E� N��vv�ҵ-DCG}$m���SS�J�߮�q~�
+[36m[2018-05-30 04:14:22.121] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 04:14:22.122] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 04:14:24.227] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:14:24.227] [INFO] instantiate-chaincode - [39mTransaction c4a4b7afa67cbc60bf150b21ec80293545f1968c630610a4f7a4b94aadd740fe has status of VALID in blocl 1
+[32m[2018-05-30 04:14:24.227] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 04:14:24.228] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:14:24.228] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:14:24.228] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:14:24.229] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 04:14:24.229] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 04:16:04.754] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:16:04.755] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:16:04.755] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:16:04.756] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:16:04.756] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:16:04.756] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:16:04.756] [DEBUG] SampleWebApp - [39margs  : name,course,Suman Kunwar,Computer Fundamentals
+[36m[2018-05-30 04:16:04.757] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:16:04.763] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31merror[39m: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: 2 UNKNOWN: error executing chaincode: transaction returned with failure: Error: Incorrect number of arguments. Expecting 3
+    at new createStatusError (/home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:64:15)
+    at /home/ubuntu/blockchain-explorer/node_modules/grpc/src/client.js:583:15
+[31m[2018-05-30 04:16:04.812] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[31m[2018-05-30 04:16:04.813] [ERROR] invoke-chaincode - [39minvoke chaincode proposal was bad
+[36m[2018-05-30 04:16:04.813] [DEBUG] invoke-chaincode - [39mFailed to send Proposal and receive all good ProposalResponse
+[31m[2018-05-30 04:16:04.813] [ERROR] invoke-chaincode - [39mFailed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+(node:22144) UnhandledPromiseRejectionWarning: Error: Failed to invoke chaincode. cause:Failed to send Proposal and receive all good ProposalResponse
+    at Object.invokeChaincode (/home/ubuntu/blockchain-explorer/app/invoke-transaction.js:174:9)
+    at <anonymous>
+(node:22144) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: 22144 Killed                  PORT=4000 node server.js
+
+Removing network artifacts_default
+Network artifacts_default not found.
+
+========== No containers available for deletion ==========
+
+
+========== No images available for deletion ===========
+
+Creating network "artifacts_default" with the default driver
+Creating orderer.example.com ... 
+Creating ca_peerOrg1 ... 
+Creating ca_peerOrg2 ... 
+Creating orderer.example.com
+Creating ca_peerOrg1
+Creating ca_peerOrg2
+[1A[2KCreating orderer.example.com ... [32mdone[0m[1BCreating peer1.org1.example.com ... 
+Creating peer0.org2.example.com ... 
+Creating peer1.org2.example.com ... 
+[1A[2KCreating ca_peerOrg2 ... [32mdone[0m[1BCreating peer0.org1.example.com ... 
+Creating peer1.org1.example.com
+Creating peer0.org2.example.com
+Creating peer1.org2.example.com
+Creating peer0.org1.example.com
+[1A[2KCreating ca_peerOrg1 ... [32mdone[0m[1B[1A[2KCreating peer1.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org2.example.com ... [32mdone[0m[1B[1A[2KCreating peer0.org1.example.com ... [32mdone[0m[1B[1A[2KCreating peer1.org2.example.com ... [32mdone[0m[1B
+
+============== node modules installed already =============
+
+[32m[2018-05-30 04:18:14.503] [INFO] SampleWebApp - [39m****************** SERVER STARTED ************************
+[32m[2018-05-30 04:18:14.505] [INFO] SampleWebApp - [39m***************  http://localhost:4000  ******************
+[36m[2018-05-30 04:18:41.842] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 04:18:41.843] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 04:18:41.843] [DEBUG] SampleWebApp - [39mUser name : SumanKunwar
+[36m[2018-05-30 04:18:41.843] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 04:18:42.183] [INFO] Helper - [39mUser SumanKunwar was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 04:18:42.859] [DEBUG] SampleWebApp - [39m-- returned from registering the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:18:42.859] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SumanKunwar for organization Org1
+[36m[2018-05-30 04:19:17.124] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels
+[36m[2018-05-30 04:19:17.125] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:19:17.126] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< C R E A T E  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:19:17.126] [DEBUG] SampleWebApp - [39mEnd point : /channels
+[36m[2018-05-30 04:19:17.126] [DEBUG] SampleWebApp - [39mChannel name : mychannel
+[36m[2018-05-30 04:19:17.126] [DEBUG] SampleWebApp - [39mchannelConfigPath : ../artifacts/channel/mychannel.tx
+[36m[2018-05-30 04:19:17.127] [DEBUG] Create-Channel - [39m
+====== Creating Channel 'mychannel' ======
+
+[36m[2018-05-30 04:19:17.127] [DEBUG] Create-Channel - [39m
+====== orgName 'Org1' ======
+
+[36m[2018-05-30 04:19:17.144] [DEBUG] Create-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[36m[2018-05-30 04:19:17.238] [DEBUG] Create-Channel - [39m response ::{"status":"SUCCESS","info":""}
+[36m[2018-05-30 04:19:17.238] [DEBUG] Create-Channel - [39mSuccessfully created the channel.
+[36m[2018-05-30 04:19:47.452] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/peers
+[36m[2018-05-30 04:19:47.453] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[32m[2018-05-30 04:19:47.453] [INFO] SampleWebApp - [39m<<<<<<<<<<<<<<<<< J O I N  C H A N N E L >>>>>>>>>>>>>>>>>
+[36m[2018-05-30 04:19:47.454] [DEBUG] SampleWebApp - [39mchannelName : mychannel
+[36m[2018-05-30 04:19:47.454] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:19:47.454] [DEBUG] SampleWebApp - [39musername :SumanKunwar
+[36m[2018-05-30 04:19:47.454] [DEBUG] SampleWebApp - [39morgname:Org1
+[36m[2018-05-30 04:19:47.455] [DEBUG] Join-Channel - [39m
+
+============ Join Channel start ============
+
+[32m[2018-05-30 04:19:47.455] [INFO] Join-Channel - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:19:47.477] [DEBUG] Join-Channel - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:19:47.751] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 04:19:47.764] [INFO] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 04:19:47.769] [DEBUG] Join-Channel - [39mJoin Channel R E S P O N S E : ["EventHub % has reported a block update for channel localhost:7053 mychannel","EventHub % has reported a block update for channel localhost:7058 mychannel",[{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null},{"version":0,"timestamp":null,"response":{"status":200,"message":"","payload":{"type":"Buffer","data":[]}},"payload":{"type":"Buffer","data":[]},"endorsement":null}]]
+[32m[2018-05-30 04:19:47.769] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[32m[2018-05-30 04:19:47.769] [INFO] Join-Channel - [39mSuccessfully joined peer to the channel mychannel
+[36m[2018-05-30 04:19:47.770] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7053
+[36m[2018-05-30 04:19:47.773] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7053 mychannel
+[36m[2018-05-30 04:19:47.773] [DEBUG] Join-Channel - [39mEvent results for event hub :localhost:7058
+[36m[2018-05-30 04:19:47.774] [DEBUG] Join-Channel - [39mEventHub % has reported a block update for channel localhost:7058 mychannel
+[32m[2018-05-30 04:19:47.787] [INFO] Join-Channel - [39mSuccessfully joined peers in organization Org1 to the channel:mychannel
+[36m[2018-05-30 04:20:18.375] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /chaincodes
+[36m[2018-05-30 04:20:18.375] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:20:18.376] [DEBUG] SampleWebApp - [39m==================== INSTALL CHAINCODE ==================
+[36m[2018-05-30 04:20:18.376] [DEBUG] SampleWebApp - [39mpeers : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:20:18.376] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:20:18.376] [DEBUG] SampleWebApp - [39mchaincodePath  : /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[36m[2018-05-30 04:20:18.376] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:20:18.377] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:20:18.377] [DEBUG] install-chaincode - [39m
+
+============ Install chaincode on organizations ============
+
+[32m[2018-05-30 04:20:18.377] [INFO] install-chaincode - [39mCalling peers in organization "Org1" to join the channel
+[36m[2018-05-30 04:20:18.389] [DEBUG] install-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32minfo[39m: [packager/Node.js]: packaging Node from /home/ubuntu/blockchain-explorer/artifacts/src/github.com/example_cc/node
+[32m[2018-05-30 04:20:18.441] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:20:18.441] [INFO] install-chaincode - [39minstall proposal was good
+[32m[2018-05-30 04:20:18.442] [INFO] install-chaincode - [39mSuccessfully sent install Proposal and received ProposalResponse
+[32m[2018-05-30 04:20:18.442] [INFO] install-chaincode - [39mSuccessfully install chaincode
+[36m[2018-05-30 04:20:46.887] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes
+[36m[2018-05-30 04:20:46.887] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:20:46.888] [DEBUG] SampleWebApp - [39m==================== INSTANTIATE CHAINCODE ==================
+[36m[2018-05-30 04:20:46.888] [DEBUG] SampleWebApp - [39mpeers  : peer0.org1.example.com,peer1.org1.example.com
+[36m[2018-05-30 04:20:46.888] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:20:46.888] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:20:46.888] [DEBUG] SampleWebApp - [39mchaincodeVersion  : v0
+[36m[2018-05-30 04:20:46.889] [DEBUG] SampleWebApp - [39mchaincodeType  : node
+[36m[2018-05-30 04:20:46.889] [DEBUG] SampleWebApp - [39mfcn  : undefined
+[36m[2018-05-30 04:20:46.889] [DEBUG] SampleWebApp - [39margs  : name,Suman Kunwar,course,CS 101
+[36m[2018-05-30 04:20:46.889] [DEBUG] instantiate-chaincode - [39m
+
+============ Instantiate chaincode on channel mychannel ============
+
+[36m[2018-05-30 04:20:46.897] [DEBUG] instantiate-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:21:33.809] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:21:33.809] [INFO] instantiate-chaincode - [39minstantiate proposal was good
+[32m[2018-05-30 04:21:33.809] [INFO] instantiate-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "
+myccv0escc"vscc*(
+ 	
+Org1MSP	
+Org2MSP2D
+ ��/ės��ѝ1<��l��)\��M��x�	{?� *PI�w�jL5x6^�E=�)ˡF��	��C55: �������=�u�8I�1�[Yja��S�Fu�h?B,
+ 
+Org1MSP
+Org2MSP", endorsement signature: 0E! ���z��`K$�;�ZTT)/ˎ9 ��Q���� ^�q,��� �AГ�o���}Ф�����!P�q
+[36m[2018-05-30 04:21:33.811] [DEBUG] instantiate-chaincode - [39mfound 1 eventhubs for this organization Org1
+[36m[2018-05-30 04:21:33.812] [DEBUG] instantiate-chaincode - [39minstantiateEventPromise - setting up event
+[32m[2018-05-30 04:21:35.904] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:21:35.904] [INFO] instantiate-chaincode - [39mTransaction e470285eff53db57ea288d47cc7a0ec8f5912c8cc79fae79f2f6f5d69e48c0cc has status of VALID in blocl 1
+[32m[2018-05-30 04:21:35.904] [INFO] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[36m[2018-05-30 04:21:35.905] [DEBUG] instantiate-chaincode - [39m------->>> R E S P O N S E : ["The chaincode instantiate transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:21:35.905] [INFO] instantiate-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:21:35.906] [DEBUG] instantiate-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:21:35.906] [DEBUG] instantiate-chaincode - [39mThe chaincode instantiate transaction was valid.
+[32m[2018-05-30 04:21:35.906] [INFO] instantiate-chaincode - [39mSuccessfully instantiate chaingcode in organization Org1 to the channel 'mychannel'
+[36m[2018-05-30 04:23:45.955] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:23:45.956] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:23:45.956] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:23:45.957] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:23:45.957] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:23:45.957] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:23:45.957] [DEBUG] SampleWebApp - [39margs  : name,course,Suman Kunwar,Computer Fundamentals
+[36m[2018-05-30 04:23:45.958] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:23:45.963] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:23:46.041] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:23:46.041] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:23:46.041] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0E! ��>5�����-ո���2$�:���֪�6 h�U_uIa}M�;<�v����N�X&��{YO�
+[36m[2018-05-30 04:23:46.043] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 04:23:48.116] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:23:48.116] [INFO] invoke-chaincode - [39mTransaction 348007cc1d48fe12050876cf7360ee677dcbaf238f180d5c1ecc3be3d1fe06fa has status of VALID in blocl 2
+[32m[2018-05-30 04:23:48.117] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 04:23:48.117] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:23:48.117] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:23:48.118] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:23:48.118] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 04:23:48.118] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: 348007cc1d48fe12050876cf7360ee677dcbaf238f180d5c1ecc3be3d1fe06fa
+[36m[2018-05-30 04:33:24.238] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:33:24.239] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:33:24.239] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:33:24.239] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:33:24.239] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:33:24.239] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:33:24.240] [DEBUG] SampleWebApp - [39margs  : name,course,Suman Kunwar,Computer Fundamentals
+[36m[2018-05-30 04:33:24.240] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:33:24.246] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:33:24.303] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:33:24.303] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:33:24.303] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0D 	�ڈP�j��ǯ���	���H&'"�Xq�r ^d�<��5�;��Kϑ��(�w�H����O
+[36m[2018-05-30 04:33:24.305] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 04:33:26.375] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:33:26.375] [INFO] invoke-chaincode - [39mTransaction aeab7f6f3b38b7deab50339836ff233c91da476de4f972847a2ab731d6d0f76c has status of VALID in blocl 3
+[32m[2018-05-30 04:33:26.375] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 04:33:26.376] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:33:26.376] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:33:26.376] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:33:26.376] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 04:33:26.376] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: aeab7f6f3b38b7deab50339836ff233c91da476de4f972847a2ab731d6d0f76c
+[36m[2018-05-30 04:42:57.352] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:42:57.353] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SumanKunwar, orgname - Org1
+[36m[2018-05-30 04:42:57.353] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:42:57.353] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:42:57.353] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:42:57.353] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:42:57.354] [DEBUG] SampleWebApp - [39margs  : name,course,Sharmila Karki,Computer Fundamentals
+[36m[2018-05-30 04:42:57.354] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:42:57.366] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:42:57.432] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:42:57.432] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:42:57.432] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0E! �hˈ�r}�G(Z|-I\C����{0��
+��y �pU�h͏jx6�"f~?H�
+ep���4�h�ؒ�
+[36m[2018-05-30 04:42:57.433] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 04:42:59.506] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:42:59.506] [INFO] invoke-chaincode - [39mTransaction 6fd2c3801bdd8c53861a31394ffafaeef04968f18c47c04913d67d89a8f0d44f has status of VALID in blocl 4
+[32m[2018-05-30 04:42:59.506] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 04:42:59.506] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:42:59.507] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:42:59.507] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:42:59.507] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 04:42:59.507] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: 6fd2c3801bdd8c53861a31394ffafaeef04968f18c47c04913d67d89a8f0d44f
+[36m[2018-05-30 04:46:12.092] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /users
+[36m[2018-05-30 04:46:12.092] [DEBUG] SampleWebApp - [39mEnd point : /users
+[36m[2018-05-30 04:46:12.093] [DEBUG] SampleWebApp - [39mUser name : SharmilaKarki
+[36m[2018-05-30 04:46:12.093] [DEBUG] SampleWebApp - [39mOrg name  : Org1
+[32m[2018-05-30 04:46:12.105] [INFO] Helper - [39mUser SharmilaKarki was not enrolled, so we will need an admin user object to register
+[36m[2018-05-30 04:46:12.457] [DEBUG] SampleWebApp - [39m-- returned from registering the username SharmilaKarki for organization Org1
+[36m[2018-05-30 04:46:12.457] [DEBUG] SampleWebApp - [39mSuccessfully registered the username SharmilaKarki for organization Org1
+[36m[2018-05-30 04:46:47.864] [DEBUG] SampleWebApp - [39m ------>>>>>> new request for /channels/mychannel/chaincodes/mycc
+[36m[2018-05-30 04:46:47.864] [DEBUG] SampleWebApp - [39mDecoded from JWT token: username - SharmilaKarki, orgname - Org1
+[36m[2018-05-30 04:46:47.864] [DEBUG] SampleWebApp - [39m==================== INVOKE ON CHAINCODE ==================
+[36m[2018-05-30 04:46:47.864] [DEBUG] SampleWebApp - [39mchannelName  : mychannel
+[36m[2018-05-30 04:46:47.865] [DEBUG] SampleWebApp - [39mchaincodeName : mycc
+[36m[2018-05-30 04:46:47.865] [DEBUG] SampleWebApp - [39mfcn  : move
+[36m[2018-05-30 04:46:47.865] [DEBUG] SampleWebApp - [39margs  : name,course,Sharmila Karki,Computer Fundamentals
+[36m[2018-05-30 04:46:47.865] [DEBUG] invoke-chaincode - [39m
+============ invoke transaction on channel mychannel ============
+
+[36m[2018-05-30 04:46:47.871] [DEBUG] invoke-chaincode - [39mSuccessfully got the fabric client for the organization "Org1"
+[32m[2018-05-30 04:46:47.929] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:46:47.929] [INFO] invoke-chaincode - [39minvoke chaincode proposal was good
+[32m[2018-05-30 04:46:47.929] [INFO] invoke-chaincode - [39mSuccessfully sent Proposal and received ProposalResponse: Status - 200, message - "OK", metadata - "", endorsement signature: 0D  ո���0�C�{r!{�w�O����B7]����( >P��-�P��p����٪�:�7�3�:��0)
+[36m[2018-05-30 04:46:47.931] [DEBUG] invoke-chaincode - [39minvokeEventPromise - setting up event
+[32m[2018-05-30 04:46:50.052] [INFO] invoke-chaincode - [39mThe chaincode invoke chaincode transaction has been committed on peer localhost:7051
+[32m[2018-05-30 04:46:50.052] [INFO] invoke-chaincode - [39mTransaction cbd81bef8d40dff0b5a7cefc459a68ae40aaba946ecba8729bf8af2781a9c143 has status of VALID in blocl 5
+[32m[2018-05-30 04:46:50.052] [INFO] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[36m[2018-05-30 04:46:50.052] [DEBUG] invoke-chaincode - [39m------->>> R E S P O N S E : ["The invoke chaincode transaction was valid.",{"status":"SUCCESS","info":""}]
+[32m[2018-05-30 04:46:50.053] [INFO] invoke-chaincode - [39mSuccessfully sent transaction to the orderer.
+[36m[2018-05-30 04:46:50.053] [DEBUG] invoke-chaincode - [39mEvent results for event hub :localhost:7051
+[36m[2018-05-30 04:46:50.053] [DEBUG] invoke-chaincode - [39mThe invoke chaincode transaction was valid.
+[32m[2018-05-30 04:46:50.053] [INFO] invoke-chaincode - [39mSuccessfully invoked the chaincode Org1 to the channel 'mychannel' for transaction ID: cbd81bef8d40dff0b5a7cefc459a68ae40aaba946ecba8729bf8af2781a9c143
+/home/ubuntu/blockchain-explorer/runApp.sh: line 62: 25272 Hangup                  PORT=4000 node server.js
