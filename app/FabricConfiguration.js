@@ -61,9 +61,11 @@ class FabricConfiguration {
 
 		var orgs = Object.keys(this.networkConfig);
 		var peerlist = [];
+                console.log('orgs ======================================================>>', orgs)
 		orgs.forEach(ele => {
 			var org = this.networkConfig[ele];
 			var properties = Object.keys(org);
+                        console.log('org', org, properties )
 			properties.forEach(prop => {
 				if (typeof org[prop] === 'object' && 'requests' in org[prop] && 'events' in org[prop]
 					&& 'server-hostname' in org[prop] && 'tls_cacerts' in org[prop])

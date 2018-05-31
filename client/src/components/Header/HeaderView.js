@@ -130,7 +130,7 @@ class HeaderView extends Component {
 
     return (
       <div>
-        <Websocket url='ws://localhost:8080/'
+        <Websocket url='wss://blockchain.fusemachines.com:8080/'
           onMessage={this.handleData.bind(this)} reconnect={true} />
         <Navbar color="faded" light expand="md">
           <NavbarBrand href="/"> <img src={Logo} className="logo" alt="Hyperledger Logo" /></NavbarBrand>

@@ -38,5 +38,9 @@
     "ws": "^5.1.1"
   },
   "license": "Apache-2.0",
-  "devDependencies": {}
+  "devDependencies": {
+    "express-force-ssl": "^0.3.2",
+    "fs": "0.0.1-security",
+    "https": "^1.0.0"
+  }
 }
