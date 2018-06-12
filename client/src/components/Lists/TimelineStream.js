@@ -7,6 +7,7 @@ import { Timeline, TimelineEvent } from 'react-event-timeline'
 import FontAwesome from 'react-fontawesome';
 // import Card, { CardContent } from 'material-ui/Card';
 import { Card, CardHeader, CardBody } from 'reactstrap';
+import moment from 'moment-timezone';
 
 
 class TimelineStream extends Component {
@@ -17,6 +18,7 @@ class TimelineStream extends Component {
         }
     }
     render() {
+        console.log('tansactions', this.props.tansactions)
         return (
             <div className="activity-stream">
                 <Card>
@@ -25,22 +27,16 @@ class TimelineStream extends Component {
                     </CardHeader>
                     <CardBody>
                         <Timeline className="timeline">
-                            <TimelineEvent title="Block Added"
-                                createdAt="2017-03-19 09:08 PM"
+                        {this.props.tansactions && this.props.tansactions.rows.map(function (item) {
+                           return( <TimelineEvent title="Block Added"
+                                createdAt= {moment(item.createdt).tz(moment.tz.guess()).format("M-D-YYYY h:mm A zz")} 
                                 className="timeline-items"
                                 icon={<FontAwesome name="cube" />}
                             >
-                                <h6>Block 1</h6>
-                                1 Tx, datahash: d932n9481cf3..
-                            </TimelineEvent>
-                            <TimelineEvent
-                                title="Block Added"
-                                createdAt="2017-03-19 09:06 AM"
-                                className="timeline-items"
-                                icon={<FontAwesome name="cube" />}>
-                                <h6>Block 0</h6>
-                                1 Tx, datahash : b9868fa6530d95...
-                            </TimelineEvent>
+                                <h6>Block {item.blockid}</h6>
+                                1 Tx, datahash:{item.txhash}
+                            </TimelineEvent>);
+                         }) }
                         </Timeline>
                     </CardBody>
                 </Card>

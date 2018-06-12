@@ -73,9 +73,12 @@ class HeaderView extends Component {
     });
   }
 
-    this.setState({ channels: arr });
+    // this.setState({ channels: arr });
 
-    this.setState({ selectedOption: arr[0] })
+    // this.setState({ selectedOption: arr[0] })
+    let arrs= [{value: 'mychannel', label:'fmchannel'}]
+    this.setState({ selectedOption: arrs[0] })
+    this.setState({channels: arrs})
 
   }
   componentWillReceiveProps(nextProps) {
@@ -127,10 +130,10 @@ class HeaderView extends Component {
 
   render() {
     const { classes } = this.props;
-
+    console.log(this.state, "this state channels")
     return (
       <div>
-        <Websocket url='wss://blockchain.fusemachines.com:8080/'
+         <Websocket url='wss://blockchain.fusemachines.com:8080/'
           onMessage={this.handleData.bind(this)} reconnect={true} />
         <Navbar color="faded" light expand="md">
           <NavbarBrand href="/"> <img src={Logo} className="logo" alt="Hyperledger Logo" /></NavbarBrand>
@@ -139,7 +142,7 @@ class HeaderView extends Component {
           <Nav className="ml-auto" navbar>
             <div className='channel-dropdown'>
               <Select
-                placeholder='Select Channel...'
+                placeholder='Select Channel.....'
                 required='true'
                 name="form-field-name"
                 value={this.state.selectedOption}
@@ -185,3 +188,4 @@ const mapDispatchToProps = (dispatch) => ({
   getNotification: (notification) => dispatch(getNotificationCreator(notification)),
 });
 export default compose (withStyles(styles), connect(mapStateToProps, mapDispatchToProps))(HeaderView);
+

@@ -9,6 +9,7 @@ import ChartStats from '../Charts/ChartStats';
 import PeerGraph from '../Charts/PeerGraph';
 import TimelineStream from '../Lists/TimelineStream';
 import OrgPieChart from '../Charts/OrgPieChart';
+import { getTransactionList as getTransactionListCreator } from '../../store/actions/transactions/action-creators';
 import { Card, Row, Col, CardDeck, CardBody } from 'reactstrap';
 import { getHeaderCount as getCountHeaderCreator } from '../../store/actions/header/action-creators';
 import { getTxByOrg as getTxByOrgCreator} from '../../store/actions/charts/action-creators';
@@ -22,9 +23,11 @@ class DashboardView extends Component {
     componentDidMount() {
         setInterval(() => {
             this.props.getTxByOrg(this.props.channel.currentChannel);
+            this.props.getTransactionList(this.props.channel.currentChannel, 0);
         }, 60000)
     }
     render() {
+        console.log("this", this.props, this.state);
         return (
         
             <div className="dashboard" >
@@ -66,7 +69,7 @@ class DashboardView extends Component {
                 </Row>
                 <Row className="lower-dash">
                     <Col lg="6">
-                    <TimelineStream />
+                    <TimelineStream tansactions={this.props.transactionList}/>
                     </Col>
                     <Col lg="6">
                         <PeerGraph />
@@ -79,12 +82,14 @@ class DashboardView extends Component {
 
 const mapDispatchToProps = (dispatch) => ({
     getCountHeader: (curChannel) => dispatch(getCountHeaderCreator(curChannel)),
+    getTransactionList: (curChannel, offset) => dispatch(getTransactionListCreator(curChannel, offset)),
     getTxByOrg: (curChannel) => dispatch(getTxByOrgCreator(curChannel) )
 });
 const mapStateToProps = state => ({
     countHeader: state.countHeader,
     txByOrg : state.txByOrg.txByOrg,
-    channel : state.channel.channel
+    channel : state.channel.channel,
+    transactionList: state.transactionList.transactionList,
 });
 export default compose(
     connect(mapStateToProps, mapDispatchToProps),
